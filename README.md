@@ -59,11 +59,45 @@ INTEGRANTES:
 
 **4. ANALIZAR CADA ELEMENTO DEL CIRCUITO**
 
+- Cajetín Rectangular 
 
+Es generalmente usada para tapar empalmes, acometidas eléctricas o cables que alimentan tomacorrientes, interruptores y switches. 
+
+- Cajetín Octogonal 
+
+El cajetín octagonal va sujetado o empotrado en el techo y es usado para tapar uniones, empalmes de cables o acometidas eléctricas para lámparas, focos y demás aparatos que cuelguen del techo 
+
+- Interruptores Conmutables 
+
+Los conmutadores de transferencias son dispositivos que permiten una conexión o desconexión segura de distintas fuentes de electricidad a una carga eléctrica. 
+
+- Boquilla Plafón 
+
+Los conmutadores de transferencias son dispositivos que permiten una conexión o desconexión segura de distintas fuentes de electricidad a una carga eléctrica. 
+
+- Foco 
+
+Su funcionamiento recuerda bastante al de la antorcha. En el interior tiene un alambre de metal que, gracias a la electricidad, este alambre entra en incandescencia y da como resultado la luz que irradia. La entrada de la corriente se hace a través del casquillo metálico que compone la parte inferior de la bombilla. 
+
+- Cable #14 
+
+El cable calibre 14 awg pertenece a una clasificación establecida por la escala AWG (American Wire Gauge). Su objetivo es identificar el espesor o el diámetro del material conductor que compone el cable. 
+
+De este modo, los electricistas y el resto de profesionales en el área pueden determinar cuáles son los tipos de cable más aptos en las instalaciones, procurando realizar cada montaje de forma exitosa. 
+
+- Enchufe 
+
+Un enchufe está formado por dos elementos: clavija y toma de corriente, que se conectan uno al otro para establecer una conexión que permita el paso de la corriente eléctrica. 
+
+Este mecanismo forma un circuito eléctrico al encajar el conector móvil (patillas o pines,  generalmente dos o tres) situado en el extremo del cable de un dispositivo con la base (tomacorriente o enchufe hembra) fijada en un equipo o, en una pared de la edificación. 
+
+- Taípe 
+
+Es un tipo de cinta adhesiva de presión usada principalmente para aislar empalmes de hilos y cables eléctricos. 
 
 **5. VIDEO**
 
-
+https://youtu.be/5pZJQzsbgQI
 
 **6. CONCLUSIONES** 
 - La lampara o foco se enciende desde cualquier nivel y se paga de la misma manera. Esto gracias a las conexiones de puentes que existe entre sus extremos. 
