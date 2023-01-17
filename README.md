@@ -74,5 +74,5 @@ INTEGRANTES:
 
 **7. BIBLIOGRAFÍA**
 
-- ISA Electricistas. (). Circuito escalera. Recuperado de: https://www.isaelectricistas.pe/blog/circuito-escalera-conmutacion-simple  
+- ISA Electricistas. (2020). Circuito escalera. Recuperado de: https://www.isaelectricistas.pe/blog/circuito-escalera-conmutacion-simple  
 - Software utilizado: InstEle. 
